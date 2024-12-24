@@ -14,10 +14,13 @@ ML Engineer with 2+ years of experience in NLP and CV, awarded in AI hackathons 
 ### 🌐 Connect with me:
 <a href="https://t.me/sy_volkov" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="25">
-</a>  
-<a href="https://www.kaggle.com/nzibben" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" height="25">
 </a>
+<a href="https://www.kaggle.com/nzibben" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="25">
+</a>
+
+
+
 <!--
 **nZiben/nZiben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
