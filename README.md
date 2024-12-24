@@ -12,9 +12,11 @@ ML Engineer with 2+ years of experience in NLP and CV, awarded in AI hackathons 
 ---
 
 ### 🌐 Connect with me:
-<a href="https://t.me/sy_volkov" target="_blank">
+<a href="https://t.me/sy_volkov" target="_blank" style="text-decoration: none;">
   <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="25">
 </a>
+<a href="https://t.me/sy_volkov" target="_blank" style="text-decoration: none; font-size: 16px; margin-left: 5px;">@sy_volkov</a>
+
 
 
 
