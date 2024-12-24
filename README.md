@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-ML Engineer with 2+ years of experience in NLP and CV, awarded in AI hackathons and mathematical Olympiads, with expertise in LLMs, optimization and MLOps
+ML Engineer with 2+ years of experience in NLP and CV, awarded in AI hackathons and mathematical Olympiads, with expertise in LLMs, optimization and MLOps.
 
 You can find my resume [here](https://github.com/nZiben/CV/blob/main/resume.pdf).  
 
