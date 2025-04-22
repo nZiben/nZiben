@@ -6,13 +6,6 @@ You can find my resume [here](https://github.com/nZiben/CV/blob/main/resume.pdf)
 
 ---
 
-### 🔢 LeetCode Progress
-<a href="https://leetcode.com/u/nZibben/" target="_blank">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/nZibben?theme=dark&bgColor=282828" alt="LeetCode Badge">
-</a>
-
----
-
 ### 🌐 Connect with me:
 <a href="https://t.me/sy_volkov" target="_blank" style="text-decoration: none;">
   <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="25">
